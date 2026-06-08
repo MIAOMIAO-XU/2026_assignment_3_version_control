@@ -1,4 +1,4 @@
 ## [unreleased]
-- CHANGED: Removed high severity XXXXXXX insertions from `data/1980273.txt`. 
+- CHANGED: Removed high severity XXXXXXX insertions from `data/1980273.txt`. Fixes davmlaw/2026_assignment_3_version_control#120
 
-- CHANGED: Corrected low severity UPPERCASE words in `data/1980273.txt`.
+- CHANGED: Corrected low severity UPPERCASE words in `data/1980273.txt`. Fixes davmlaw/2026_assignment_3_version_control#121
